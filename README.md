@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Harsh Tyagi
+- 👀 I’m interested in Machnine learning and Artificial Intelligence
+- 🌱 I’m currently learning Data Analysis and Machine learning algorithms
+- 💞️ I’m looking to collaborate on any projects which can help me learn and gain new skills
+- 📫 you can reach me through my mailid: herrersaarc@gmail.com
